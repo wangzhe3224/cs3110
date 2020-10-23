@@ -1,0 +1,7 @@
+"Rule: ocaml: cmo* -> byte (%=sum_test )": "\2252]\255]\024/uV\006\188){1\011\136"
+"Rule: ocaml: ml -> cmo & cmi (%=sum_test )": "4\132\244\017\143U\006-w%\005/\n\174\188\229"
+"Rule: ocaml dependencies ml (%=sum_test )": "\231Z\226\018\151\233`=\t+\160\159\177\019\0068"
+"Rule: ocaml: ml -> cmo & cmi (%=sum )": "}\244\t\139a\167\200aM\219\nbt\014c\004"
+"Resource: /Users/zhewang/Projects/cs3110/old_labs/lab3/sum.ml": "\016\152\016n\251\161\001{\16664\189\250%+\020"
+"Resource: /Users/zhewang/Projects/cs3110/old_labs/lab3/sum_test.ml": "\215.T\004$\203\218\155\133\245\028\220\255\129\226\155"
+"Rule: ocaml dependencies ml (%=sum )": "\nC\201\232z\147\134pI\154\181C\200\2339\127"

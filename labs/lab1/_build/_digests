@@ -1,0 +1,4 @@
+"Rule: ocaml: ml -> cmo & cmi (%=hello )": "\225\213\193\1984\149A\206VI'm}d\175\241"
+"Rule: ocaml dependencies ml (%=hello )": "\241\142\132\204f\164>\176\b_\169X \0008\187"
+"Rule: ocaml: cmo* -> byte (%=hello )": "a\158\014\237~`-\154\186P\194\221\004\137\000\227"
+"Resource: /Users/zhewang/Projects/lab1/hello.ml": "\026\\\143\186\220+ey\005\218\005\169F\250%\018"
