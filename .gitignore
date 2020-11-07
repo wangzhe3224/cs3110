@@ -20,4 +20,5 @@
 _ocamltest
 _ocamltestd
 *.odoc
-_build
+*/_build/*
+*.byte
