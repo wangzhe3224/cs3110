@@ -1,0 +1,23 @@
+# general patterns
+
+*.o
+*.a
+*.so
+*.obj
+*.lib
+*.dll
+*.la
+*.cm[ioxat]
+*.cmx[as]
+*.cmti
+*.annot
+*.exe
+*.exe.manifest
+.DS_Store
+*.out
+*.out.dSYM
+*.swp
+_ocamltest
+_ocamltestd
+*.odoc
+_build

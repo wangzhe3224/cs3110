@@ -1,7 +1,0 @@
-"Rule: ocaml: mli -> cmi (%=date )": "@%\239w\223\005\148\234O\1291\023\239=\175F"
-"Rule: ocaml: ml & cmi -> cmo (%=date )": "\254)gK?i\235}*\206FW'\131\243\219"
-"Rule: ocaml: ml -> cmo & cmi (%=date )": "\129Q\189y\231`(B\006\219\174{\161z\215\143"
-"Resource: /Users/zhewang/Projects/cs3110/labs/lab8/date.mli": "v>\245oK\139\150\201\212\139\148\172\015eX\200"
-"Resource: /Users/zhewang/Projects/cs3110/labs/lab8/date.ml": "(\210\203\002\204q\1749p\194\222\183t|HN"
-"Rule: ocaml dependencies ml (%=date )": "\128\231\005u\132\189\025\182\t'\142\253\150\001k*"
-"Rule: ocaml dependencies mli (%=date )": "o\225&\2188\000\t\",\026\243\022 \236x:"
