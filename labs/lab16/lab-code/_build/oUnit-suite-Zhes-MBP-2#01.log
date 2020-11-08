@@ -1,0 +1,18 @@
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:0:int is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:2:adds is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:4:lets is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:6:times_add is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:8:add_times_add is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:10:if true then 22 else 0 is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:10:if true then 22 else 0.

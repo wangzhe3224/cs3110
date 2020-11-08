@@ -1,0 +1,138 @@
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Runner: processes
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Chooser: simple
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration suite_name = "suite"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration cache_filename = "/Users/zhewang/Projects/cs3110/labs/lab16/lab-code/_build/oUnit-$(suite_name).cache"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration run_gc_full_major = "true"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration display = "true"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration results_style_1_X = "false"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration testdata_dir = "none"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration health_check_interval = "1."
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration verbose = "false"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration chooser = "simple"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration output_html_dir = "none"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration processes_kill_period = "5."
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration runner = "processes"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration shards = "2"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration processes_grace_period = "5."
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration log_encoding = "utf-8"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration output_junit_file = "none"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration ci = "false"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Configuration output_file = "/Users/zhewang/Projects/cs3110/labs/lab16/lab-code/_build/oUnit-$(suite_name)-$(shard_id).log"
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Using 2 workers maximum.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Starting worker number Zhes-MBP-2#01.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Worker Zhes-MBP-2#01 started.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Starting worker number Zhes-MBP-2#02.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Worker Zhes-MBP-2#02 started.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:1:add, suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:1:add, suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Start test suite:1:add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:1:add, suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:0:int is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:1:add, suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:1:add, suite:0:int.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Test suite:1:add is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: End test suite:1:add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:2:adds, suite:1:add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:3:let, suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Start test suite:3:let.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:3:let, suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:2:adds is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:3:let, suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:3:let, suite:2:adds.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Test suite:3:let is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: End test suite:3:let.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:4:lets, suite:3:let.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:5:times1, suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Start test suite:5:times1.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:5:times1, suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:4:lets is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:5:times1, suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:5:times1, suite:4:lets.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:6:times_add, suite:5:times1.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:6:times_add, suite:5:times1.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Test suite:5:times1 is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:6:times_add, suite:5:times1.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: End test suite:5:times1.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:6:times_add, suite:5:times1.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:7:add_times, suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Start test suite:7:add_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:7:add_times, suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:6:times_add is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:7:add_times, suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:7:add_times, suite:6:times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:8:add_times_add, suite:7:add_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:8:add_times_add, suite:7:add_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Test suite:7:add_times is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:8:add_times_add, suite:7:add_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: End test suite:7:add_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:8:add_times_add, suite:7:add_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:9:times_times, suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Start test suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:9:times_times, suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:8:add_times_add is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:9:times_times, suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:9:times_times, suite:8:add_times_add.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 2 tests running : suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Start test suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 2 tests running : suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: Test suite:9:times_times is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 2 tests running : suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#02 I: End test suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 2 tests running : suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 2 tests running: suite:10:if true then 22 else 0, suite:9:times_times.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 1 tests running : suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 1 tests running: suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: Test suite:10:if true then 22 else 0 is successful.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 1 tests running : suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 1 tests running: suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#01 I: End test suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Still 1 tests running : suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 1 tests running: suite:10:if true then 22 else 0.
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: 0 tests running: .
+2020-11-08T13:03:46+00:00 Zhes-MBP-2#00 I: Worker Zhes-MBP-2#02 has ended.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Worker Zhes-MBP-2#01 has ended.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Used 2 worker during test execution.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Run 5 tests with shard Zhes-MBP-2#02.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Run 6 tests with shard Zhes-MBP-2#01.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Check health of shard Zhes-MBP-2#02, 4 times.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Check health of shard Zhes-MBP-2#01, 1 times.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: ==============
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Summary:
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:10:if true then 22 else 0 is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:9:times_times is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:8:add_times_add is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:7:add_times is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:6:times_add is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:5:times1 is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:4:lets is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:3:let is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:2:adds is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:1:add is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Test suite:0:int is successful.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Ran: 11 tests in: 0.11 seconds.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Cases: 11.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Tried: 11.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Errors: 0.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Failures: 0.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Skip: 0.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Todo: 0.
+2020-11-08T13:03:47+00:00 Zhes-MBP-2#00 I: Timeout: 0.
