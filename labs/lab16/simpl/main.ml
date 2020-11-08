@@ -120,8 +120,7 @@ let rec subst e v x = match e with
     if x = y
     then Let (y, e1', e2)
     else Let (y, e1', subst e2 v x)
-  | If (e1, e2, e3) -> 
-    If (subst e1 v x, subst e2 v x, subst e3 v x)
+  | If (e1, e2, e3) -> If (subst e1 v x, subst e2 v x, subst e3 v x)
 
 (** [step] is the [-->] relation, that is, a single step of 
     evaluation. *)
